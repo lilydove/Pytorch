@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="951aa7a8-0023-45e8-a1b8-3ee5ffe5c00f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blitz-autograd.py" beforeDir="false" afterPath="$PROJECT_DIR$/blitz-autograd.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="blitz-autograd.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blitz-autograd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="317">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -42,10 +43,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-17" />
-    <option name="y" value="486" />
-    <option name="width" value="1944" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="477" />
+    <option name="width" value="1946" />
     <option name="height" value="662" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -170,8 +171,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="324" width="1296" height="441" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.17222223" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
@@ -179,7 +179,7 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3289256" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39072847" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8278146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -216,8 +216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blitz-autograd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="317">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
         </state>
       </provider>
     </entry>
